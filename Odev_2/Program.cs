@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Odev_2 //Haşim Ensar Kavak 2018280027
+namespace Odev_2 
 {
     class Program
     {
